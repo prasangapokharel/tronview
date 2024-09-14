@@ -1,0 +1,279 @@
+Array
+(
+    [payment_id] => 5934312674
+    [payment_status] => waiting
+    [pay_address] => TTEciXSNbJsBDWVpZfSNUtkyXQL5UyPYXP
+    [price_amount] => 21
+    [price_currency] => trx
+    [pay_amount] => 21
+    [amount_received] => 20.495499
+    [pay_currency] => trx
+    [order_id] => 1
+    [order_description] => 
+    [payin_extra_id] => 
+    [ipn_callback_url] => http://localhost/lottery/payment_callback.php
+    [customer_email] => 
+    [created_at] => 2024-09-14T13:07:03.896Z
+    [updated_at] => 2024-09-14T13:07:03.896Z
+    [purchase_id] => 4549255651
+    [smart_contract] => 
+    [network] => trx
+    [network_precision] => 
+    [time_limit] => 
+    [burning_percent] => 
+    [expiration_estimate_date] => 2024-09-14T13:27:03.896Z
+    [is_fixed_rate] => 
+    [is_fee_paid_by_user] => 
+    [valid_until] => 2024-09-21T13:07:03.896Z
+    [type] => crypto2crypto
+    [product] => api
+    [origin_ip] => 2400:1a00:b1c0:6620:512:dc81:344:eb0b
+)
+Array
+(
+    [payment_id] => 4760632769
+    [payment_status] => waiting
+    [pay_address] => TQ8Dg2HsFkAPq7MHSvmKVrL3z2u5NPh5FC
+    [price_amount] => 22
+    [price_currency] => trx
+    [pay_amount] => 22
+    [amount_received] => 21.4905
+    [pay_currency] => trx
+    [order_id] => 1
+    [order_description] => 
+    [payin_extra_id] => 
+    [ipn_callback_url] => http://localhost/lottery/payment_callback.php
+    [customer_email] => 
+    [created_at] => 2024-09-14T13:07:09.187Z
+    [updated_at] => 2024-09-14T13:07:09.187Z
+    [purchase_id] => 4995835791
+    [smart_contract] => 
+    [network] => trx
+    [network_precision] => 
+    [time_limit] => 
+    [burning_percent] => 
+    [expiration_estimate_date] => 2024-09-14T13:27:09.186Z
+    [is_fixed_rate] => 
+    [is_fee_paid_by_user] => 
+    [valid_until] => 2024-09-21T13:07:09.186Z
+    [type] => crypto2crypto
+    [product] => api
+    [origin_ip] => 2400:1a00:b1c0:6620:512:dc81:344:eb0b
+)
+Array
+(
+    [payment_id] => 4945699788
+    [payment_status] => waiting
+    [pay_address] => TMnYbN6yoPpr6PYy83EaJLzBCpfTusN112
+    [price_amount] => 22
+    [price_currency] => trx
+    [pay_amount] => 22
+    [amount_received] => 21.4905
+    [pay_currency] => trx
+    [order_id] => 1
+    [order_description] => 
+    [payin_extra_id] => 
+    [ipn_callback_url] => http://localhost/lottery/payment_callback.php
+    [customer_email] => 
+    [created_at] => 2024-09-14T13:08:39.747Z
+    [updated_at] => 2024-09-14T13:08:39.747Z
+    [purchase_id] => 5461577754
+    [smart_contract] => 
+    [network] => trx
+    [network_precision] => 
+    [time_limit] => 
+    [burning_percent] => 
+    [expiration_estimate_date] => 2024-09-14T13:28:39.747Z
+    [is_fixed_rate] => 
+    [is_fee_paid_by_user] => 
+    [valid_until] => 2024-09-21T13:08:39.747Z
+    [type] => crypto2crypto
+    [product] => api
+    [origin_ip] => 2400:1a00:b1c0:6620:512:dc81:344:eb0b
+)
+Array
+(
+    [payment_id] => 6385848851
+    [payment_status] => waiting
+    [pay_address] => TQayZPKAK9p1QEKKqwbupSHtZ7tAxcAosv
+    [price_amount] => 23
+    [price_currency] => trx
+    [pay_amount] => 23
+    [amount_received] => 22.4855
+    [pay_currency] => trx
+    [order_id] => 2
+    [order_description] => 
+    [payin_extra_id] => 
+    [ipn_callback_url] => http://localhost/lottery/payment_callback.php
+    [customer_email] => 
+    [created_at] => 2024-09-14T13:15:28.154Z
+    [updated_at] => 2024-09-14T13:15:28.154Z
+    [purchase_id] => 5811870481
+    [smart_contract] => 
+    [network] => trx
+    [network_precision] => 
+    [time_limit] => 
+    [burning_percent] => 
+    [expiration_estimate_date] => 2024-09-14T13:35:28.154Z
+    [is_fixed_rate] => 
+    [is_fee_paid_by_user] => 
+    [valid_until] => 2024-09-21T13:15:28.154Z
+    [type] => crypto2crypto
+    [product] => api
+    [origin_ip] => 2400:1a00:b1c0:6620:512:dc81:344:eb0b
+)
+Array
+(
+    [payment_id] => 5398755755
+    [payment_status] => waiting
+    [pay_address] => TFaSaJeMo5ofmmUKy9pf2iCmu2XyTmUTBX
+    [price_amount] => 100
+    [price_currency] => trx
+    [pay_amount] => 100
+    [amount_received] => 99.1005
+    [pay_currency] => trx
+    [order_id] => 2
+    [order_description] => 
+    [payin_extra_id] => 
+    [ipn_callback_url] => http://localhost/lottery/payment_callback.php
+    [customer_email] => 
+    [created_at] => 2024-09-14T13:15:37.071Z
+    [updated_at] => 2024-09-14T13:15:37.071Z
+    [purchase_id] => 4570286864
+    [smart_contract] => 
+    [network] => trx
+    [network_precision] => 
+    [time_limit] => 
+    [burning_percent] => 
+    [expiration_estimate_date] => 2024-09-14T13:35:37.071Z
+    [is_fixed_rate] => 
+    [is_fee_paid_by_user] => 
+    [valid_until] => 2024-09-21T13:15:37.071Z
+    [type] => crypto2crypto
+    [product] => api
+    [origin_ip] => 2400:1a00:b1c0:6620:512:dc81:344:eb0b
+)
+Array
+(
+    [payment_id] => 5277885444
+    [payment_status] => waiting
+    [pay_address] => TKcix62x4ERsqcPrdH7E8x7SZ7UmCPjrag
+    [price_amount] => 100
+    [price_currency] => trx
+    [pay_amount] => 100
+    [amount_received] => 99.1005
+    [pay_currency] => trx
+    [order_id] => 2
+    [order_description] => 
+    [payin_extra_id] => 
+    [ipn_callback_url] => http://localhost/lottery/payment_callback.php
+    [customer_email] => 
+    [created_at] => 2024-09-14T13:16:17.459Z
+    [updated_at] => 2024-09-14T13:16:17.459Z
+    [purchase_id] => 4966088426
+    [smart_contract] => 
+    [network] => trx
+    [network_precision] => 
+    [time_limit] => 
+    [burning_percent] => 
+    [expiration_estimate_date] => 2024-09-14T13:36:17.459Z
+    [is_fixed_rate] => 
+    [is_fee_paid_by_user] => 
+    [valid_until] => 2024-09-21T13:16:17.459Z
+    [type] => crypto2crypto
+    [product] => api
+    [origin_ip] => 2400:1a00:b1c0:6620:512:dc81:344:eb0b
+)
+Array
+(
+    [payment_id] => 5474042047
+    [payment_status] => waiting
+    [pay_address] => TAJBhr1mxtQMkKGnufErci1wMx1eeQ1mkk
+    [price_amount] => 100
+    [price_currency] => trx
+    [pay_amount] => 100
+    [amount_received] => 99.1005
+    [pay_currency] => trx
+    [order_id] => 2
+    [order_description] => 
+    [payin_extra_id] => 
+    [ipn_callback_url] => http://localhost/lottery/payment_callback.php
+    [customer_email] => 
+    [created_at] => 2024-09-14T13:20:40.368Z
+    [updated_at] => 2024-09-14T13:20:40.368Z
+    [purchase_id] => 6402355728
+    [smart_contract] => 
+    [network] => trx
+    [network_precision] => 
+    [time_limit] => 
+    [burning_percent] => 
+    [expiration_estimate_date] => 2024-09-14T13:40:40.368Z
+    [is_fixed_rate] => 
+    [is_fee_paid_by_user] => 
+    [valid_until] => 2024-09-21T13:20:40.368Z
+    [type] => crypto2crypto
+    [product] => api
+    [origin_ip] => 2400:1a00:b1c0:6620:512:dc81:344:eb0b
+)
+Array
+(
+    [payment_id] => 4944888906
+    [payment_status] => waiting
+    [pay_address] => TE8E1MphXpebBmkDg3KipNqRu1u8fTjJb9
+    [price_amount] => 12
+    [price_currency] => trx
+    [pay_amount] => 12
+    [amount_received] => 11.5405
+    [pay_currency] => trx
+    [order_id] => 2
+    [order_description] => 
+    [payin_extra_id] => 
+    [ipn_callback_url] => http://localhost/lottery/payment_callback.php
+    [customer_email] => 
+    [created_at] => 2024-09-14T13:21:47.733Z
+    [updated_at] => 2024-09-14T13:21:47.733Z
+    [purchase_id] => 5573120823
+    [smart_contract] => 
+    [network] => trx
+    [network_precision] => 
+    [time_limit] => 
+    [burning_percent] => 
+    [expiration_estimate_date] => 2024-09-14T13:41:47.733Z
+    [is_fixed_rate] => 
+    [is_fee_paid_by_user] => 
+    [valid_until] => 2024-09-21T13:21:47.733Z
+    [type] => crypto2crypto
+    [product] => api
+    [origin_ip] => 2400:1a00:b1c0:6620:512:dc81:344:eb0b
+)
+Array
+(
+    [payment_id] => 5771198434
+    [payment_status] => waiting
+    [pay_address] => TP9AtJvwPuNLyFXjj2EFwDLGxTvD68jJaw
+    [price_amount] => 22
+    [price_currency] => trx
+    [pay_amount] => 22
+    [amount_received] => 21.4905
+    [pay_currency] => trx
+    [order_id] => 2
+    [order_description] => 
+    [payin_extra_id] => 
+    [ipn_callback_url] => http://localhost/lottery/payment_callback.php
+    [customer_email] => 
+    [created_at] => 2024-09-14T13:23:24.172Z
+    [updated_at] => 2024-09-14T13:23:24.172Z
+    [purchase_id] => 6424182786
+    [smart_contract] => 
+    [network] => trx
+    [network_precision] => 
+    [time_limit] => 
+    [burning_percent] => 
+    [expiration_estimate_date] => 2024-09-14T13:43:24.172Z
+    [is_fixed_rate] => 
+    [is_fee_paid_by_user] => 
+    [valid_until] => 2024-09-21T13:23:24.172Z
+    [type] => crypto2crypto
+    [product] => api
+    [origin_ip] => 2400:1a00:b1c0:6620:512:dc81:344:eb0b
+)

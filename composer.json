@@ -1,0 +1,12 @@
+{
+    "name": "godsu/matadoor-fitness",
+    "description": "matadoor-fitness",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "swoolex/swoolex": "^2.5",
+        "react/react": "^1.4",
+        "openswoole/core": "22.1.5"
+    }
+}
